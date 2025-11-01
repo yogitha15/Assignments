@@ -1,4 +1,4 @@
-package language.basics;
+package Assignments;
 
 public class DataType {
 
